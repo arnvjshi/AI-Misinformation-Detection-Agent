@@ -8,9 +8,9 @@ import { SiteHeader } from "@/components/site-header"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "VeriCrisis",
+  description: "AI agent that detects, verifies, and corrects misinformation related to global and local crises. The agent will operate as a backend service using FastAPI, leverage Perplexity and Google's Gemini 2.0 Flash for verification, and use Supabase for data persistence.",
+  generator: "arnv",
 }
 
 export default function RootLayout({
