@@ -21,7 +21,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 border-b bg-background/70 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-3">
         <Link href="/" className="font-semibold tracking-tight">
-          Misinfo Agent
+          VeriCrisis
           <span className="sr-only">Misinformation Detection Agent</span>
         </Link>
 
