@@ -10,8 +10,10 @@ dist/
 downloads/
 eggs/
 .eggs/
+# Keep ignoring Python package build lib folders, but allow frontend/lib
 lib/
 lib64/
+!frontend/lib/
 parts/
 sdist/
 var/
