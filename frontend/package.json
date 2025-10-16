@@ -1,7 +1,12 @@
 {
-  "name": "my-v0-project",
+  "name": "VeriCrisis",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@10",
+  "engines": {
+    "node": ">=18.18",
+    "pnpm": ">=9"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
