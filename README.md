@@ -180,4 +180,4 @@ For issues and questions:
 
 ---
 
-**Note**: This system is designed to assist in identifying potential misinformation but should not be the sole source for fact-checking decisions. Always verify important information through multiple reliable sources.  !!
+**Note**: This system is designed to assist in identifying potential misinformation but should not be the sole source for fact-checking decisions. Always verify important information through multiple reliable sources.  ??
